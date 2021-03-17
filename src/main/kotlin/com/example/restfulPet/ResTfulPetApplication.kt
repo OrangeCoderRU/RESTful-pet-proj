@@ -1,4 +1,4 @@
-package com.example.RESTfulPet
+package com.example.restfulPet
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
