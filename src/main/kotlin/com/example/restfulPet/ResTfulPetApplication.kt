@@ -9,3 +9,5 @@ class ResTfulPetApplication
 fun main(args: Array<String>) {
 	runApplication<ResTfulPetApplication>(*args)
 }
+data class Message(val id: String?, val text: String)
+
